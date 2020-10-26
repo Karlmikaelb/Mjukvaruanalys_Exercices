@@ -6,21 +6,23 @@ using System.Threading.Tasks;
 
 namespace Exercice_4
 {
-    class ServicePersonnel : Employee
+    class ServicePersonnel
     {
+        public string name { get; set; }
+        public int Age { get; set; }
+        public string Email { get; set; }
 
-
-        public void Restock()
+        public bool Restock(bool Restocked, string articleName)
         {
 
         }
 
-        public void EmptyMachine(int amount)
+        public bool EmptyMachine(bool Emptied)
         {
 
         }
 
-        public void Maintenance()
+        public bool Maintenance(bool Serviced)
         {
 
         }

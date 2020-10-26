@@ -8,5 +8,16 @@ namespace Exercice_4
 {
     class User
     {
+        public int Amount { get; set; }
+
+        public User(int amount)
+        {
+            Amount = amount;
+        }
+
+        public void InsertCoins(int amount)
+        {
+
+        }
     }
 }

@@ -8,6 +8,22 @@ namespace Exercice_4
 {
     class Transaction
     {
+        public int TransactionId { get; set; }
+        public int Amount { get; set; }
 
+        public bool CancelTrans(int id)
+        {
+
+        }
+
+        public bool Purchase(int amount, bool InStock)
+        {
+
+        }
+
+        public int ReturnChange(int amount, int articlePrice)
+        {
+
+        }
     }
 }

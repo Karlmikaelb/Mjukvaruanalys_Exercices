@@ -8,10 +8,11 @@ using System.Threading.Tasks;
 namespace Exercice_4
 {
     class Program
-    {
+    {        
         static void Main(string[] args)
         {
-
+            Article article = new Article();
+            VendingMachine vendingMachine = new VendingMachine();
         }
     }
 }

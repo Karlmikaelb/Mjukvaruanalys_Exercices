@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice_3", "ConsoleApp1\E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice_4", "Exercice_4\Exercice_4.csproj", "{10032B66-E98A-4CC3-B5C8-11080287B51A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Airplamce", "Airplamce\Airplamce.csproj", "{468ABC37-72E8-4DD3-B494-3F7B1140D7DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWatch", "SimpleWatch\SimpleWatch.csproj", "{CCA8CF88-107D-4AAD-A1BA-C330CEC410E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{10032B66-E98A-4CC3-B5C8-11080287B51A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10032B66-E98A-4CC3-B5C8-11080287B51A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10032B66-E98A-4CC3-B5C8-11080287B51A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{468ABC37-72E8-4DD3-B494-3F7B1140D7DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{468ABC37-72E8-4DD3-B494-3F7B1140D7DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{468ABC37-72E8-4DD3-B494-3F7B1140D7DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{468ABC37-72E8-4DD3-B494-3F7B1140D7DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCA8CF88-107D-4AAD-A1BA-C330CEC410E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCA8CF88-107D-4AAD-A1BA-C330CEC410E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCA8CF88-107D-4AAD-A1BA-C330CEC410E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCA8CF88-107D-4AAD-A1BA-C330CEC410E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
