@@ -52,6 +52,10 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Pseudokod simplewatch.docx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Klassdiagram simplewatch.PNG" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
